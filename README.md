@@ -1,3 +1,10 @@
+# Notable changes in this fork
+- Generate conventional commits without body/footer
+- Use the [tavernari/git-commit-message](https://ollama.com/tavernari/git-commit-message) LLM by default
+- Avoid uppercase in the commit description
+- Accept an `-a` argument to stage all files like `git commit -a`
+
+
 # 🎯 faff
 
 > **Drop the faff, dodge the judgment, get back to coding.**
